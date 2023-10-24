@@ -1,0 +1,139 @@
+   初学Git 
+这节课学习了mkdir（创建文件夹）  cp（粘贴文件到文件夹中）  
+rm（删除文件夹及图片）  ls（查看目录） cd（改变目录）
+history(查看历史命令及保存历史命令）
+    1  ls
+    2  mkdir MYX/
+    3  cd MYX/
+    4  cd MYX/
+    5  ls MXY/
+    6  ls MYX/
+    7  ls MYX
+    8  cp d:\wx\* .
+    9  cp d:/wx/* .
+   10  ls MYX/
+   11  ls MYX
+   12  ls MYX/
+   13  history
+   14  ls MYX
+   15  ls MYX/
+   16  history 
+   17  rm
+   18  rm -r MYX/
+   19  rm -r MYX/
+   20  rm -r MYX/
+   21  ls
+   22  cd
+   23  cd MYX
+   24  cd MYX/
+   25  ls
+   26  mkdir MAYX/
+   27  cd
+   28  cd MAYX/
+   29  ls
+   30  rm -r MAYX/
+   31  ls
+   32  cp d:/wx/* .
+   33  cd MAYX
+   34  ls
+   35  mkrid MYX/
+   36  mkdir MYX/
+   37  cd MYX
+   38  ls
+   39  cp d:/wx/* .
+   40  ls
+   41  rm -r MYX/
+   42  rm -r MYX
+   43  rm d:/Git/MYX
+   44  rm MYX
+   45  ls
+   46  history
+   47  history
+   48  cd /
+   49  ls
+   50  rm MYX -r
+   51  ls
+   52  mkdir MYX/
+   53  ls
+   54  cp d:/wx/* .
+   55  cp wx/
+   56  cp wx
+   57  cp d:/wx/* MYX.
+   58  cp d:/wx/MYX/* .
+   59  cd d:/wx/* .
+   60  cp d:/wx/* .
+   61  ls
+   62  mkrid MYX/
+   63  mkdir MYX/
+   64  ls
+   65  cp d:/wx/* . MYX
+   66  cp d:/wx/* .MYX/
+   67  CP d:/wx/dybl.jpg MYX/
+   68  ls
+   69  history 
+   70  ls
+   71  rm dybl -r
+   72  rm dybl.jpg -r
+   73  rm 微信图片_20230906100948.jip -r
+   74  rm 微信图片_20230906100948.jpg -r
+   75  ls
+   76  rm MYX/dybl.jpg
+   77  cp d:/wx/dybl.jpg dlam.jpg MYX/
+   78  cp d:/wx/dlam.jpg MYX/
+   79  ls
+   80  ls MYX
+   81  rm dlam.jpg dybl.jpg
+   82  rm MYX/dlam.jpg dybl.jpg
+   83  cp d:/wx/dlam.jpg MYX/
+   84  ls MYX
+   85  rm MYX/dlam.jpg dybl.jpg -r
+   86  cp d:/wx/dlam.jpg MYX/
+   87  rm MYX dlam.jpg dybl.jpg -r
+   88  ls
+   89  mkdir MYX/
+   90  ls
+   91  history 
+   92  ls
+   93  ls MYX
+   94  cp d:/wx/dlam.jpg MYX/
+   95  cp d:/wx/dybl.jpg MYX/
+   96  ls MYX
+   97  mkdir MXX/
+   98  ls
+   99  rm MYX/dlam.jpg
+  100  ls MYX
+  101  rm MYX/dybl.jpg
+  102  ls
+  103  rm MYX MXX -r
+  104  ls
+  105  cp d:/wx/dybl.jpg
+  106  cp d:/wx/* .
+  107  ls
+  108  rm dybl.jpg  dlam.jpg
+  109  ls
+  110  cp d:/wx/* .
+  111  ls
+  112  rm dybl.jpg dlam.jpg -r
+  113  ls
+  114  host
+  115  history 
+  116  mkdir MYX/
+  117  cp d:/wx/* . MYX/
+  118  cp d:/wx/* ,MYX/
+  119  cp d:/wx/* .MYX/
+  120  cp d:/wx/* MYX/
+  121  ls MYX
+  122  rm MYX/dybl.jpg
+  123  ls MYX
+  124  rm MYX/dlam.jpg
+  125  ls MYX
+  126  cp d:/wx/* MYX
+  127  ls MYX
+  128  history 
+  129  mkdir MXX
+  130  ls
+  131  cp d:/wx/dybl.jpg MXX
+  132  ls MXX
+  133  history 
+  134  history 
+  135  history>20213571-20230907
